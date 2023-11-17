@@ -2,5 +2,9 @@
 "image":"https://kth-studio.github.io/Oxxxymiron/miXXXtape%20II%20Долгий%20путь%20домой/image.jpg",
 "next":"https://kth-studio.github.io/Oxxxymiron/miXXXtape%20II%20Долгий%20путь%20домой/Пролив%20Дрейка/link.json",
 "artist":"Oxxxymiron",
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Oxxxymiron\",\"image\":\"https://kth-studio.github.io/Oxxxymiron/image.jpg\",\"link\":\"https://kth-studio.github.io/Oxxxymiron/link.json\"}]",
+"album":"miXXXtape",
+"album_uri":"https://kth-studio.github.io/Oxxxymiron/miXXXtape%20II%20Долгий%20путь%20домой/link.json",
 "name":"Интро",
+"explicit":"yes",
 "text":"[{\"text\":\"Уже зовут большие дяди на Пикник „Афиши“...\nИ с кем бы ни общался сейчас, ощущаешь барьер\nПрекрасная женщина\nТы не прав, тощий\nТы не Pac точно, ты не Pac точно\nБез неё ему жопа\nИ всё вокруг замечательно, но\nИ с кем бы ни общался сейчас, ощущаешь барьер\n\n\",\"written\":\"Мирон Фёдоров\"}]"}]
