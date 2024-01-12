@@ -1,4 +1,5 @@
 [{"name":"THE STORY OF ALISHER",
+"color":"6",
 "explicit":"yes",
 "additional":"single",
 "artist":"Oxxxymiron",
@@ -9,6 +10,6 @@
 "number_en":"1 song","number_de":"1 Titel","number_ru":"1 песня",
 "time_en":"7 minutes, 17 seconds","time_de":"7 minuten und 17 sekunden","time_ru":"7 минут 17 секунд",
 "copyright":"℗ 2022 Oxxxymiron",
-"image":"https://kth-studio.github.io/Oxxxymiron/THE%20STORY%20OF%20ALISHER/image.jpg",
+"image":"https://kth-studio.github.io/Oxxxymiron/THE%20STORY%20OF%20ALISHER/imagehd.jpg",
 "image4k":"https://kth-studio.github.io/Oxxxymiron/THE%20STORY%20OF%20ALISHER/image4k.jpg",
 "songs":"[{\"number\":\"1\",\"time\":\"07:17\",\"name\":\"THE STORY OF ALISHER\",\"artist\":\"Oxxxymiron\",\"star\":\"yes\",\"explicit\":\"yes\",\"link\":\"https://kth-studio.github.io/Oxxxymiron/THE%20STORY%20OF%20ALISHER/THE%20STORY%20OF%20ALISHER/link.json\"}]"}]
